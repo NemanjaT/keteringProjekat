@@ -1,0 +1,176 @@
+
+	body {
+
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    background-image: url('../img/pozadina.jpg');
+    background-position:top right,top left ;
+    background-repeat: no-repeat,no-repeat;
+    background-size: cover;
+    
+
+}
+
+#logo{
+   
+    padding-right: 10px;
+    padding-left: 20px;
+}
+
+#tekst{
+    color: black;
+    
+    
+    font-size: 25px;
+    letter-spacing: 5px;
+    text-shadow: 1px 1px;
+}
+
+.page-header {
+    padding-bottom: 9px;
+    margin: 40px 0 20px;
+    border-bottom: 1px solid #eee;
+}
+
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border: 1px solid #000000f0;
+}
+
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+    color: #0000ff;
+    background-color: transparent;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #0000ff;
+    background-color: transparent;
+}
+
+.g-5, .gx-5 {
+    --bs-gutter-x: 3rem;
+    padding-top: 30px;
+}
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid #000000f0;
+    border-radius: 0.25rem;
+}
+
+#registracija{
+
+    margin: 4rem;
+}
+
+
+button, input, optgroup, select, textarea {
+    margin: 10px;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    padding: 10px;
+}
+
+
+.btn {
+  margin-top: 15px;
+}
+
+
+
+
+
+.container{
+	background: white;
+	margin: 0 auto;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color: #0000ff;
+    background-color: transparent;
+}
+
+.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+    old: ;
+    font-size: 20px;
+}
+
+
+
+tbody, td, tfoot, th, thead, tr {
+    border-color: inherit;
+    border-style: solid;
+    border-width: 1px;
+    padding: 10px;
+}
+
+
+
+.col-md-1 {
+    flex: 0 0 auto;
+    width: 8.33333333%;
+    margin: 15px;
+}
+
+#menadzer{
+	margin: 15px;
+	padding-top: 15px;
+}
+
+.h3, h3 {
+    font-size: 1.75rem;
+    margin: 25px;
+}
+
+
+
+
+hr{
+	margin: 1rem 0;
+	color: inherit;
+	border: 0;
+	opacity: 0.25;
+}
+
+
+
+#foot{
+	padding-right: 3rem!important;
+	padding-left: 3rem!important;
+	border-top: 2px solid #0d6efd;
+	margin-top: 3rem;
+}
+
+#fot{
+	padding-right: 3rem!important;
+	padding-left: 3rem!important;
+	border-top: 2px solid #0d6efd;
+}

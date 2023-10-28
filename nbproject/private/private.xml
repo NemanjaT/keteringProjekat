@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Nemanja/Documents/NetBeansProjects/ProjekatKeteringNemanjaTutunovic/web/dodajSluzbu.jsp</file>
+            <file>file:/C:/Users/Nemanja/Documents/NetBeansProjects/ProjekatKeteringNemanjaTutunovic/web/home.jsp</file>
+            <file>file:/C:/Users/Nemanja/Documents/NetBeansProjects/ProjekatKeteringNemanjaTutunovic/src/java/controllers/AdminProfil.java</file>
+            <file>file:/C:/Users/Nemanja/Documents/NetBeansProjects/ProjekatKeteringNemanjaTutunovic/src/java/models/Keteringsluzba.java</file>
+            <file>file:/C:/Users/Nemanja/Documents/NetBeansProjects/ProjekatKeteringNemanjaTutunovic/web/adminStrana.jsp</file>
+            <file>file:/C:/Users/Nemanja/Documents/NetBeansProjects/ProjekatKeteringNemanjaTutunovic/src/java/database/KeteringsluzbaDB.java</file>
+            <file>file:/C:/Users/Nemanja/Documents/NetBeansProjects/ProjekatKeteringNemanjaTutunovic/src/java/controllers/ObrisiSluzbu.java</file>
+            <file>file:/C:/Users/Nemanja/Documents/NetBeansProjects/ProjekatKeteringNemanjaTutunovic/src/java/controllers/PorvrdaPorudzbine.java</file>
+            <file>file:/C:/Users/Nemanja/Documents/NetBeansProjects/ProjekatKeteringNemanjaTutunovic/src/java/models/Korisnik.java</file>
+            <file>file:/C:/Users/Nemanja/Documents/NetBeansProjects/ProjekatKeteringNemanjaTutunovic/web/poruceno.jsp</file>
+            <file>file:/C:/Users/Nemanja/Documents/NetBeansProjects/ProjekatKeteringNemanjaTutunovic/src/java/controllers/DodajMenadzera.java</file>
+            <file>file:/C:/Users/Nemanja/Documents/NetBeansProjects/ProjekatKeteringNemanjaTutunovic/src/java/controllers/Poruci.java</file>
+            <file>file:/C:/Users/Nemanja/Documents/NetBeansProjects/ProjekatKeteringNemanjaTutunovic/web/login.jsp</file>
+            <file>file:/C:/Users/Nemanja/Documents/NetBeansProjects/ProjekatKeteringNemanjaTutunovic/src/java/controllers/KorisnikProfil.java</file>
+            <file>file:/C:/Users/Nemanja/Documents/NetBeansProjects/ProjekatKeteringNemanjaTutunovic/src/java/models/Menadzer.java</file>
+            <file>file:/C:/Users/Nemanja/Documents/NetBeansProjects/ProjekatKeteringNemanjaTutunovic/web/korisnikProfil.jsp</file>
+            <file>file:/C:/Users/Nemanja/Documents/NetBeansProjects/ProjekatKeteringNemanjaTutunovic/web/WEB-INF/index.html</file>
+            <file>file:/C:/Users/Nemanja/Documents/NetBeansProjects/ProjekatKeteringNemanjaTutunovic/src/java/database/AdminDB.java</file>
+            <file>file:/C:/Users/Nemanja/Documents/NetBeansProjects/ProjekatKeteringNemanjaTutunovic/src/java/controllers/DodajSluzbu.java</file>
+            <file>file:/C:/Users/Nemanja/Documents/NetBeansProjects/ProjekatKeteringNemanjaTutunovic/src/java/database/MeniDB.java</file>
+        </group>
+    </open-files>
+</project-private>
